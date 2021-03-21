@@ -6,6 +6,9 @@ public class BooleanOperatorsDemo{
 		System.out.println(x & y);
 		System.out.println(!x);
 		System.out.println(x | y);
+		System.out.println("hello world");
+		System.out.println("hello world");
+	
 }
 }
  
